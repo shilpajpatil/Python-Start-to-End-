@@ -1,3 +1,3 @@
 # Python-Start-to-End-
 
-This repository contains all the topics related to python with example which i have tried for practice. Here i have listed all the topics which i have covered.
+This repository encompasses a comprehensive collection of Python-related topics, accompanied by practical examples that I've explored for the purpose of hands-on practice. I've compiled a list of all the covered topics within this repository.
