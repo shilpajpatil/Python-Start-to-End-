@@ -1,0 +1,16 @@
+Multithreading is a way of achieving multitasking.
+
+Process: A process is an instance of a computer program being executed.
+
+Thread: A thread is an entity within a process that can be scheduled for execution. Thread is a sequance of such instructions within a program that can be exicuted independetly of other code.
+
+for creating a thread object we use following syntax.
+
+		t1 = threading.Thread(target, arg)
+
+		target= function to be exicuted by the thread
+		arg   = argument to be passed to the function
+
+start() = once the thread start the current program also keeps on executing.
+
+join() = program wait for completion of current thread to execute next. 
